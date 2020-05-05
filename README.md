@@ -1,7 +1,9 @@
 Dataset Details : https://zenodo.org/record/3271522#.XrD3b6gzZPZ
 
 Train Dataset : https://zenodo.org/record/3271522/files/proppy_1.0.train.tsv?download=1
+
 Dev Dataset : https://zenodo.org/record/3271522/files/proppy_1.0.dev.tsv?download=1
+
 Test Dataset : https://zenodo.org/record/3271522/files/proppy_1.0.test.tsv?download=1
 
 This is the corpus used in the paper "Proppy: Organizing the News Based on Their Propagandistic Content"
